@@ -44,7 +44,7 @@
 
 
 <br>
-									<input type="text" style="padding:15px;" name="search" placeholder="Suchen..." name="ad" class="form-control">
+									<input type="text" style="padding:15px;" name="search" placeholder="Suchen..." name="ad" class="form-control" minlength="3" required>
 									<br>
 									<button style="color:white; width:100%;" class="btn btn-info">SUCHEN</button>
 									

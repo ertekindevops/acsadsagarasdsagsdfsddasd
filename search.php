@@ -10,11 +10,11 @@
             <div class="container">
                 <div class="page-header__inner">
                     <ul class="thm-breadcrumb list-unstyled">
-                        <li><a href="index">Anasayfa</a></li>
+                        <li><a href="index">Startseite</a></li>
                         <li><span>/</span></li>
-                        <li>PDFs gefunden</li>
+                        <li>PDF gefunden</li>
                     </ul>
-                    <h2>PDFs gefunden</h2>
+                    <h2>PDF gefunden</h2>
                 </div>
             </div>
         </section>

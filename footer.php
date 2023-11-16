@@ -137,9 +137,6 @@ height: auto;}
 						<center>
 						
 							<div class="footer-widget__column footer-widget__about">
-								<div class="footer-widget__logo">
-									<a href="index"><img src="assets/beyaz.png" width="150"></a>
-								</div>
 								<div class="footer-widget__about-text-box">
 									<p class="footer-widget__about-text">  
 									2022-2023 © <?=$sites["isim"];?> - Tüm Hakları Saklıdır.</p>
@@ -178,10 +175,6 @@ height: auto;}
 		<div class="mobile-nav__content">
 			<span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
-			<div class="logo-box">
-				<a href="index" aria-label="logo image"><img src="assets/beyaz.png" width="143"
-						alt="" /></a>
-			</div>
 			<!-- /.logo-box -->
 			<div class="mobile-nav__container"></div>
 			<!-- /.mobile-nav__container -->
