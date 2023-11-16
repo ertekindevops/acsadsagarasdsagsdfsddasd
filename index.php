@@ -10,31 +10,31 @@
 			<div class="container">
 				<div class="row">
 			
-					<div class="col-xl-12">
-						<div class="about-one__right">
-							<div class="section-title text-left">
-								<div class="section-sub-title-box">
-									<p class="section-sub-title">AGB`S</p>
-									<div class="section-title-shape-1">
-										<img src="assets/images/dark-mode/section-title-shape-1.png" alt="">
-									</div>
-									<div class="section-title-shape-2">
-										<img src="assets/images/dark-mode/section-title-shape-2.png" alt="">
-									</div>
-								</div>
-								<h2 class="section-title__title">AGB`S</h2>
-							</div>
-							<p class="about-one__text-1"><p style="text-align:justify">
-							<?=$sites["hakkimizda"];?> </p>
-</p>
-							
-						
-						
-						
-							
-							
-						</div>
-					</div>
+<!--					<div class="col-xl-12">-->
+<!--						<div class="about-one__right">-->
+<!--							<div class="section-title text-left">-->
+<!--								<div class="section-sub-title-box">-->
+<!--									<p class="section-sub-title">AGB`S</p>-->
+<!--									<div class="section-title-shape-1">-->
+<!--										<img src="assets/images/dark-mode/section-title-shape-1.png" alt="">-->
+<!--									</div>-->
+<!--									<div class="section-title-shape-2">-->
+<!--										<img src="assets/images/dark-mode/section-title-shape-2.png" alt="">-->
+<!--									</div>-->
+<!--								</div>-->
+<!--								<h2 class="section-title__title">AGB`S</h2>-->
+<!--							</div>-->
+<!--							<p class="about-one__text-1"><p style="text-align:justify">-->
+<!--							--><?php //=$sites["hakkimizda"];?><!-- </p>-->
+<!--</p>-->
+<!--							-->
+<!--						-->
+<!--						-->
+<!--						-->
+<!--							-->
+<!--							-->
+<!--						</div>-->
+<!--					</div>-->
 				</div>		
 					
 					<br><br>
@@ -43,7 +43,7 @@
 							<br><br>
 
 
-<br>
+                                <br>
 									<input type="text" style="padding:15px;" name="search" placeholder="Suchen..." name="ad" class="form-control" minlength="3" required>
 									<br>
 									<button style="color:white; width:100%;" class="btn btn-info">SUCHEN</button>
