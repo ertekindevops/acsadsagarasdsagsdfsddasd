@@ -111,7 +111,7 @@
           $sil=$vt->prepare("delete from iletisim where id=?");
           $sil->execute(array($id));
           if ($sil) {
-             echo '<META HTTP-EQUIV="Refresh" content="2;iletisim.php"><div class="alert alert-danger" style="width:100%;" role="alert">İletişim Kayıtı Başarıyla Silindi</div>';
+             echo '<META HTTP-EQUIV="Refresh" content="2;kontakt.php"><div class="alert alert-danger" style="width:100%;" role="alert">İletişim Kayıtı Başarıyla Silindi</div>';
           }else{
             header("Location:no");
           }

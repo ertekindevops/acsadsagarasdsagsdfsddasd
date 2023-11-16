@@ -63,10 +63,10 @@ $sites  = $vt->query("select * from siteayar")->fetchAll(PDO::FETCH_ASSOC); fore
                                 <a href="index" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
                                 <ul class="main-menu__list">
                                 <li><a href="index">Startseite</a></li>
-                                <li><a href="kurumsal?id=4">Preise</a></li>
-                                    <li><a href="kurumsal?id=2">AGB`S</a></li>
-                                    <li><a href="kurumsal?id=5">İmpressum</a></li>
-                                <li><a href="iletisim">Kontakt</a></li>
+                                <li><a href="preise?id=4">Preise</a></li>
+                                    <li><a href="preise?id=2">AGB`S</a></li>
+                                    <li><a href="preise?id=5">İmpressum</a></li>
+                                <li><a href="kontakt">Kontakt</a></li>
                                 </ul>
                             </div>
                         </div>
