@@ -116,7 +116,7 @@
 
      <div class="mb-3">
                                                         <label for="example-text-input" class="form-label">Anasayfa Hakkımızda Kısa Yazı</label>
-                                                        <input class="form-control" type="text" name="hakkimizda" value="<?php echo $sites["hakkimizda"]; ?>">
+         <textarea class="form-control" type="text" name="hakkimizda" value="<?php echo $sites["hakkimizda"]; ?>"></textarea>
                                                     </div>	
 													
 																								
