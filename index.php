@@ -132,7 +132,7 @@
                                                        
                                                         
                                                         <div class="get-insurance__input-box">
-															<input type="text" placeholder="Nummer"
+															<input type="text" placeholder="Telefon"
 																name="tel">
 														</div>
                                                        

@@ -87,7 +87,7 @@
                                         </div>
                                         <div class="col-xl-12">
                                             <div class="comment-form__input-box">
-                                                <input type="text" placeholder="Number " name="tel">
+                                                <input type="text" placeholder="Telefon " name="tel">
                                             </div>
                                         </div> 
                                     </div>
