@@ -184,10 +184,6 @@ height: auto;}
 					<i class="fa fa-envelope"></i>
 					<a href="mailto:<?=$sites["mail"];?>"><?=$sites["mail"];?></a>
 				</li>
-				<li>
-					<i class="fa fa-phone-alt"></i>
-					<a href="tel:<?=$sites["telefon"];?>"><?=$sites["telefon"];?></a>
-				</li>
 			</ul><!-- /.mobile-nav__contact -->
 	
 
