@@ -1,7 +1,7 @@
 <?php
 
 try {
-  $vt= new PDO("mysql:host=localhost;dbname=izmoxcom_demo5;charset=utf8","izmoxcom_demo5","izmoxcom_demo5");
+  $vt= new PDO("mysql:host=localhost;dbname=ngav_news;charset=utf8","ngav_news","-G$fjdwD5cYL");
 } catch (PDOException $e) {
   echo $e->getMessage();
 }
@@ -11,7 +11,7 @@ session_start();
 
 
 //SEARCH BAĞLANTISI
-$pdo = new PDO("mysql:host=localhost;dbname=izmoxcom_demo5;charset=utf8","izmoxcom_demo5","izmoxcom_demo5", [
+$pdo = new PDO("mysql:host=localhost;dbname=ngav_news;charset=utf8","ngav_news","-G$fjdwD5cYL", [
   PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
   PDO::ATTR_DEFAULT_FETCH_MODE => PDO::FETCH_ASSOC
 ]);
