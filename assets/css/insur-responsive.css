@@ -1779,6 +1779,7 @@
     }
 
     .main-menu__left {
+        display: inline-block;
         float: none;
     }
 
