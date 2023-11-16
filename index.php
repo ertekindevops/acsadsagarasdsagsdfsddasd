@@ -67,9 +67,6 @@
 								data-wow-duration="2500ms">
 							
 							</div>
-							<div class="get-insurance__author">
-								<p>Kontakt</p>
-							</div>
 						
 						</div>
 					</div>
