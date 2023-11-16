@@ -31,12 +31,12 @@
                                 </div>
                             </div>
                             <div class="contact-page__call-email">
-                                <div class="contact-page__call-icon">
-                                    <i class="fas fa-phone"></i>
-                                </div>
+<!--                                <div class="contact-page__call-icon">-->
+<!--                                    <i class="fas fa-phone"></i>-->
+<!--                                </div>-->
                                 <div class="contact-page__call-email-content">
                                     <h4>
-                                        <a href="tel:<?=$sites["telefon"];?>" class="contact-page__call-number"><?=$sites["telefon"];?></a>
+<!--                                        <a href="tel:--><?php //=$sites["telefon"];?><!--" class="contact-page__call-number">--><?php //=$sites["telefon"];?><!--</a>-->
                                         <a href="mailto:<?=$sites["mail"];?>"
                                             class="contact-page__email"><?=$sites["mail"];?></a>
                                     </h4>
