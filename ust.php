@@ -65,7 +65,7 @@ $sites  = $vt->query("select * from siteayar")->fetchAll(PDO::FETCH_ASSOC); fore
                                 <li><a href="index">Startseite</a></li>
                                 <li><a href="kurumsal?id=4">Preise</a></li>
                                     <li><a href="kurumsal?id=2">AGB`S</a></li>
-                                    <li><a href="kurumsal?id=5">impressum</a></li>
+                                    <li><a href="kurumsal?id=5">İmpressum</a></li>
                                 <li><a href="iletisim">Kontakt</a></li>
                                 </ul>
                             </div>
