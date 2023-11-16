@@ -47,62 +47,32 @@ $sites  = $vt->query("select * from siteayar")->fetchAll(PDO::FETCH_ASSOC); fore
 </head>
 
 <body class="custom-cursor">
-
 	<div class="custom-cursor__cursor"></div>
 	<div class="custom-cursor__cursor-two"></div>
-
-
-
-
-
-
-
 	<div class="page-wrapper">
-		
 <header class="main-header clearfix">
-
-
-
-
-
-
-			
-			<nav class="main-menu clearfix">
-				<div class="main-menu__wrapper clearfix">
-					<div class="container">
-						<div class="main-menu__wrapper-inner clearfix">
-							<div class="main-menu__left">
-								<div class="main-menu__logo">
-								<a href="index"><img src="logo_ngav.webp"> <font style="font-size:15px;">&nbsp; NGAVFirmenregister</font></a>
-																	</div>
-								<div class="main-menu__main-menu-box">
-									<div class="main-menu__main-menu-box-inner">
-										<a href="index" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
-										
-										
-										
-										<ul class="main-menu__list">
-										
-										<li><a href="index">Startseite</a></li>
-										<li><a href="kurumsal?id=4">Preise</a></li>																				<li><a href="kurumsal?id=2">AGB`S</a></li>         
-                                            											
-								
-										<li><a href="iletisim">Kontakt</a></li>
-										
-											                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-										</ul>
-									</div>
-									
-								</div>
-							</div>
-							
-	
-							
-						
-						
-							
-						</div>
-					</div>
-				</div>
-			</nav>
-		</header>
+    <nav class="main-menu clearfix">
+        <div class="main-menu__wrapper clearfix">
+            <div class="container">
+                <div class="main-menu__wrapper-inner clearfix">
+                    <div class="main-menu__left">
+                        <div class="main-menu__logo">
+                        <a href="index"><img src="logo_ngav.webp"> <font style="font-size:15px;">&nbsp; NGAVFirmenregister</font></a> </div>
+                        <div class="main-menu__main-menu-box">
+                            <div class="main-menu__main-menu-box-inner">
+                                <a href="index" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
+                                <ul class="main-menu__list">
+                                <li><a href="index">Startseite</a></li>
+                                <li><a href="kurumsal?id=4">Preise</a></li>
+                                    <li><a href="kurumsal?id=2">AGB`S</a></li>
+                                    <li><a href="kurumsal?id=5">impressum</a></li>
+                                <li><a href="iletisim">Kontakt</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
