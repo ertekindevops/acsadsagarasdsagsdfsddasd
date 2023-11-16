@@ -36,11 +36,8 @@
 <!--						</div>-->
 <!--					</div>-->
 				</div>
-                <h2 class="section-title__title">Firmen Suchen</h2>-->
-					<br><br>
+                <h2 class="section-title__title">Firmen Suchen</h2>
 				<form method="post" action="search.php">
-						
-							<br><br>
 
 
                                 <br>
