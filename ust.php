@@ -56,7 +56,6 @@ $sites  = $vt->query("select * from siteayar")->fetchAll(PDO::FETCH_ASSOC); fore
             <div class="container">
                 <div class="main-menu__wrapper-inner clearfix">
                     <div class="main-menu__left">
-                        <div class="main-menu__logo">
                         <a href="index"><img src="logo_ngav.webp"> <font style="font-size:15px;">&nbsp; NGAVFirmenregister</font></a> </div>
                         <div class="main-menu__main-menu-box">
                             <div class="main-menu__main-menu-box-inner">
