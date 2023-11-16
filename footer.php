@@ -139,7 +139,7 @@ height: auto;}
 							<div class="footer-widget__column footer-widget__about">
 								<div class="footer-widget__about-text-box">
 									<p class="footer-widget__about-text">  
-									2022-2023 © <?=$sites["isim"];?> - Tüm Hakları Saklıdır.</p>
+									2022-2023 © <?=$sites["isim"];?> - Alle Rechte vorbehalten.</p>
 							
 								</div>
 								
