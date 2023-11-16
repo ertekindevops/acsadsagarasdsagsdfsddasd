@@ -639,6 +639,8 @@ ul {
 .main-menu__left {
   display: block;
   float: left;
+  margin-top: 15px;
+  margin-right: 20px;
 }
 
 .main-menu__logo {
